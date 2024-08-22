@@ -1,0 +1,15 @@
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.csproj.AssemblyReference.cache
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.AssemblyInfoInputs.cache
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.AssemblyInfo.cs
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.csproj.CoreCompileInputs.cache
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/bin/Debug/net8.0/TaskManagement.Application.deps.json
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/bin/Debug/net8.0/TaskManagement.Application.dll
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/bin/Debug/net8.0/TaskManagement.Application.pdb
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/bin/Debug/net8.0/TaskManagement.Domain.dll
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/bin/Debug/net8.0/TaskManagement.Domain.pdb
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskMana.B5C26166.Up2Date
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.dll
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/refint/TaskManagement.Application.dll
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/TaskManagement.Application.pdb
+/Users/samvel/Documents/C# Project/TaskManagement/TaskManagement.Application/obj/Debug/net8.0/ref/TaskManagement.Application.dll
